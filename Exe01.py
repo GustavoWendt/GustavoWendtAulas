@@ -1,11 +1,8 @@
-#gustavowendt
-#Idade: 16 anos
-#Jogo no Xbox series S
-#Jogo No Mans Skai
-#Signo: Aries.
-#Gosto de comer 
-#Minha cor favorita é verde (eu acho)
-#Eu amo a aula de zumba mas amo mesmo a de progamação de aplicativos
-#Teste para fixar o aprendizado da aula passada.
-#Teste de mais uma modificação para fixar o conhecimento da aula passada.
-#tESTE PARA MOSTRAR AO Vitor.
+x = 34 - 23 #um comentario
+y = "Hello" #outro comentario
+z = 3.45
+if z == 3.45 or y =="Hello":
+    x=x+1
+    y=y + "World"# concatenação de strings
+    print(x)
+    print(y)
