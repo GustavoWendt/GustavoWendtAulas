@@ -30,4 +30,4 @@ while True:  # Começa o loop para repetir o programa
 
     if loop != "S":  # Se a resposta for diferente de "S", sai do loop
         print("Encerrando o sistema... O dev é lindo! 😎")
-        break  # Sai do loop e encerra o programa
+        break  # Sai do loop e encerra o programa--------
