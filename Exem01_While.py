@@ -4,4 +4,4 @@ vendas = []
 while venda !='':
     vendas.append(venda)
     venda = input('Registre um produto. Para cancelar o registro de um novo produto, basta apertar enter sem digitar nada: ')
-    print('Registro Finalizado. As vendas cadastrais foram: {}'.format(vendas))
+    print('Registro Finalizado. As vendas cadastradas foram: {}'.format(vendas))
